@@ -9,3 +9,7 @@ Object-Oriented Programming in Python.
 * Special class methods (dunder methods)
 * Decorators: properties, setters, getters
 * Class documentation
+
+## Videos
+
+## Reference

@@ -10,6 +10,14 @@ Object-Oriented Programming in Python.
 * Decorators: properties, setters, getters
 * Class documentation
 
+## Course project: N-Body Simulation
+* Defining classes: Vector, Body, Universe
+* Implementing required classes
+* Running simulation
+
+### Example simulation results:
+
+
 ## Videos
 
 ## Reference
